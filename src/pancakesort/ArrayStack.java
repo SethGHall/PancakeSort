@@ -3,7 +3,6 @@ package pancakesort;
 /**
    A class that implements a stack collection using an
    array as the underlying data structure
-   @author Andrew Ensor
 */
 import java.util.Collection;
 import java.util.NoSuchElementException;
